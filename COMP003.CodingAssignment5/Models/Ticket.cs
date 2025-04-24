@@ -8,6 +8,6 @@ public class Ticket
     
     public decimal TicketCost { get; set; }
     
-    public DateTime StartDate { get; set; }
+    public DateTime StartTime { get; set; }
     
 }
